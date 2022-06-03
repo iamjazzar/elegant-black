@@ -4,6 +4,7 @@
     "description": "A Visual Studio Code theme for every elegant developer",
     "version": "0.1.0",
     "publisher": "iamjazzar",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.67.0"
     },
