@@ -2,7 +2,7 @@
 
 The real clean and elegant dark vscode theme.
 
-Get it [now](https://marketplace.visualstudio.com/items?itemName=elegant-black)!
+Get it [now](https://marketplace.visualstudio.com/items?itemName=iamjazzar.elegant-black)!
 
 
 ![Elegant Black windows](/images/0.png?raw=true)
