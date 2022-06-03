@@ -3,6 +3,7 @@
     "displayName": "Elegant black",
     "description": "A Visual Studio Code theme for every elegant developer",
     "version": "0.0.1",
+    "publisher": "iamjazzar",
     "engines": {
         "vscode": "^1.67.0"
     },
